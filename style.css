@@ -2,3 +2,8 @@
     font-family: "Space Mono", monospace;
     font-weight: bolder;
 }
+
+.try-again:hover {
+    background-color: #f8d7da;
+
+}
